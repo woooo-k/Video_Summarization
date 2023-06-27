@@ -1,0 +1,5 @@
+[('bee keeping', 46),
+ ('dancing ballet', 17),
+ ('archery', 17),
+ ('playing paintball', 15),
+ ('tai chi', 14)]

@@ -1,0 +1,5 @@
+[('motorcycling', 133),
+ ('riding a bike', 101),
+ ('riding mountain bike', 89),
+ ('feeding birds', 32),
+ ('opening wine bottle', 21)]

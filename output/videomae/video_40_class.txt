@@ -1,0 +1,5 @@
+[('climbing tree', 121),
+ ('bee keeping', 100),
+ ('throwing axe', 71),
+ ('feeding birds', 57),
+ ('feeding fish', 55)]

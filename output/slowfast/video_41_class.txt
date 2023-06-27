@@ -1,0 +1,5 @@
+[('motorcycling', 77),
+ ('riding mountain bike', 61),
+ ('archery', 52),
+ ('grooming horse', 38),
+ ('changing wheel (not on bike)', 37)]

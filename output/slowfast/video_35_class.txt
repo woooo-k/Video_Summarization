@@ -1,0 +1,5 @@
+[('busking', 31),
+ ('playing violin', 24),
+ ('playing clarinet', 23),
+ ('kissing', 15),
+ ('smoking', 14)]

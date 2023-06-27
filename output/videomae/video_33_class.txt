@@ -1,0 +1,5 @@
+[('high kick', 105),
+ ('cheerleading', 98),
+ ('tai chi', 96),
+ ('skipping rope', 94),
+ ('playing volleyball', 60)]

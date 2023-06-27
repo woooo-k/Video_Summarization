@@ -1,0 +1,5 @@
+[('celebrating', 45),
+ ('dancing gangnam style', 42),
+ ('skateboarding', 38),
+ ('busking', 22),
+ ('zumba', 20)]

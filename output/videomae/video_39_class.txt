@@ -1,0 +1,5 @@
+[('news anchoring', 32),
+ ('bee keeping', 22),
+ ('smoking', 20),
+ ('playing paintball', 16),
+ ('planting trees', 15)]

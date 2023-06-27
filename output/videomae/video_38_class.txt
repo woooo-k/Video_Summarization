@@ -1,0 +1,5 @@
+[('building shed', 32),
+ ('building cabinet', 19),
+ ('cleaning gutters', 14),
+ ('cleaning windows', 13),
+ ('weaving basket', 13)]

@@ -1,0 +1,5 @@
+[('digging', 20),
+ ('news anchoring', 19),
+ ('plastering', 19),
+ ('grooming horse', 18),
+ ('bee keeping', 14)]

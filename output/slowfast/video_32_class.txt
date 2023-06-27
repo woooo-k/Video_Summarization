@@ -1,0 +1,5 @@
+[('dancing gangnam style', 51),
+ ('celebrating', 47),
+ ('jumpstyle dancing', 26),
+ ('cheerleading', 26),
+ ('dancing macarena', 20)]

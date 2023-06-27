@@ -1,0 +1,5 @@
+[('training dog', 59),
+ ('archery', 58),
+ ('walking the dog', 52),
+ ('riding or walking with horse', 43),
+ ('using segway', 37)]

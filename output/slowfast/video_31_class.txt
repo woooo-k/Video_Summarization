@@ -1,0 +1,5 @@
+[('kissing', 64),
+ ('hugging baby', 36),
+ ('crying', 33),
+ ('smoking', 26),
+ ('giving or receiving award', 18)]

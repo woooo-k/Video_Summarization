@@ -1,0 +1,5 @@
+[('petting cat', 81),
+ ('petting animal (not cat)', 36),
+ ('training dog', 35),
+ ('shaking hands', 28),
+ ('eating spaghetti', 27)]

@@ -1,0 +1,5 @@
+[('archery', 31),
+ ('riding unicycle', 20),
+ ('spray painting', 18),
+ ('riding mountain bike', 17),
+ ('changing wheel (not on bike)', 17)]

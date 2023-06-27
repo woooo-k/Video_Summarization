@@ -1,0 +1,5 @@
+[('training dog', 95),
+ ('walking the dog', 72),
+ ('playing paintball', 45),
+ ('riding or walking with horse', 43),
+ ('petting animal (not cat)', 39)]

@@ -1,0 +1,5 @@
+[('bee keeping', 77),
+ ('barbequing', 56),
+ ('answering questions', 25),
+ ('cleaning gutters', 25),
+ ('feeding birds', 24)]

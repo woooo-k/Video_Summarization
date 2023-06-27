@@ -1,0 +1,5 @@
+[('grooming dog', 81),
+ ('petting animal (not cat)', 72),
+ ('giving or receiving award', 50),
+ ('training dog', 44),
+ ('news anchoring', 39)]

@@ -1,0 +1,5 @@
+[('playing volleyball', 160),
+ ('high kick', 119),
+ ('skipping rope', 99),
+ ('playing badminton', 91),
+ ('marching', 82)]

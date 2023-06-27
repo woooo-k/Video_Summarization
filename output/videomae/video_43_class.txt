@@ -1,0 +1,5 @@
+[('riding a bike', 42),
+ ('riding mountain bike', 40),
+ ('answering questions', 38),
+ ('riding unicycle', 37),
+ ('yoga', 34)]

@@ -1,0 +1,5 @@
+[('motorcycling', 69),
+ ('riding a bike', 45),
+ ('riding mountain bike', 38),
+ ('riding unicycle', 34),
+ ('skateboarding', 28)]
