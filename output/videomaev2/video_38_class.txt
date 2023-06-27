@@ -1,0 +1,5 @@
+[('building shed', 29),
+ ('taking photo', 28),
+ ('bee keeping', 18),
+ ('shoot dance', 13),
+ ('decoupage', 13)]

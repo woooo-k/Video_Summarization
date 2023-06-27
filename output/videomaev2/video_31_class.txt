@@ -1,0 +1,5 @@
+[('smoking', 65),
+ ('hugging baby', 49),
+ ('busking', 42),
+ ('kissing', 38),
+ ('crying', 22)]

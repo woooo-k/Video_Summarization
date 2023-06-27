@@ -1,0 +1,5 @@
+[('cheerleading', 96),
+ ('skipping rope', 84),
+ ('doing aerobics', 80),
+ ('playing hand clapping games', 77),
+ ('testifying', 69)]

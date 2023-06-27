@@ -1,0 +1,5 @@
+[('training dog', 81),
+ ('grooming dog', 57),
+ ('walking the dog', 53),
+ ('petting animal (not cat)', 48),
+ ('archery', 45)]

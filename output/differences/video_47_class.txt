@@ -1,0 +1,5 @@
+[('grooming dog', 72),
+ ('petting animal (not cat)', 69),
+ ('training dog', 45),
+ ('grooming horse', 26),
+ ('shaking hands', 25)]

@@ -1,0 +1,10 @@
+[model : videomaev2]
+Execution time: 429.21072912216187 seconds
+[model : videomaev2]
+Execution time: 429.5208525657654 seconds
+[model : videomaev2]
+Execution time: 454.36253666877747 seconds
+[model : videomaev2]
+Execution time: 436.76063680648804 seconds
+[model : videomaev2]
+Execution time: 439.4203643798828 seconds

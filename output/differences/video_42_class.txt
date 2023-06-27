@@ -1,0 +1,5 @@
+[('motorcycling', 78),
+ ('riding a bike', 63),
+ ('riding mountain bike', 54),
+ ('pouring beer', 38),
+ ('wading through mud', 34)]

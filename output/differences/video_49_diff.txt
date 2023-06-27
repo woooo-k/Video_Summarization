@@ -1,0 +1,565 @@
+"Activities in first pkl but not in second for key 0: {'celebrating'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 0: {'testifying'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 1: {'walking the dog'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 1: {'answering questions'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 2: {'walking the dog'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 2: {'milking cow'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 3: {'grooming horse'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 3: {'cutting nails'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 4: {'grooming horse'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 4: {'cutting nails'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 5: {'training dog', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 5: {'hugging baby', "
+ "'shearing sheep'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 6: {'training dog', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 6: {'hugging baby', "
+ "'shearing sheep'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 7: {'training dog'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 7: {'hugging baby'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 8: {'training dog', "
+ "'building cabinet', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 8: {'giving or receiving "
+ "award', 'cracking neck', 'news anchoring'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 9: {'fixing hair', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 9: {'making the bed', "
+ "'news anchoring'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 10: {'grooming horse'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 10: {'kissing'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 11: {'giving or receiving "
+ "award', 'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 11: {'answering "
+ "questions', 'news anchoring'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 12: {'grooming horse', "
+ "'walking the dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 12: {'answering "
+ "questions', 'news anchoring'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 13: {'training dog', "
+ "'grooming horse', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 13: {'cutting nails', "
+ "'shearing sheep', 'bandaging'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 14: {'training dog', "
+ "'grooming horse', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 14: {'laughing', 'cutting "
+ "nails', 'giving or receiving award'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 15: {'bandaging', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 15: {'giving or receiving "
+ "award', 'shearing sheep'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 16: {'training dog'}"
+'cnt : 1'
+("Activities in second pkl but not in first for key 16: {'giving or receiving "
+ "award'}")
+'cnt : 1'
+("Activities in first pkl but not in second for key 17: {'shaking hands', "
+ "'training dog', 'grooming horse'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 17: {'laughing', 'cutting "
+ "nails', 'petting cat'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 18: {'milking cow'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 18: {'training dog'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 19: {'petting cat'}"
+'cnt : 1'
+("Activities in second pkl but not in first for key 19: {'giving or receiving "
+ "award'}")
+'cnt : 1'
+("Activities in first pkl but not in second for key 20: {'milking cow', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 20: {'giving or receiving "
+ "award', 'news anchoring'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 21: {'kissing'}"
+'cnt : 1'
+("Activities in second pkl but not in first for key 21: {'petting animal (not "
+ "cat)'}")
+'cnt : 1'
+"Activities in first pkl but not in second for key 22: {'applauding'}"
+'cnt : 1'
+("Activities in second pkl but not in first for key 22: {'presenting weather "
+ "forecast'}")
+'cnt : 1'
+("Activities in first pkl but not in second for key 23: {'laughing', "
+ "'applauding'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 23: {'massaging back', "
+ "'presenting weather forecast'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 24: {'laughing', "
+ "'applauding', 'answering questions'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 24: {'celebrating', "
+ "'presenting weather forecast', 'tying necktie'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 25: {'celebrating', "
+ "'answering questions'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 25: {'grooming dog', "
+ "'petting animal (not cat)'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 26: {'petting cat', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 26: {'giving or receiving "
+ "award', 'news anchoring'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 27: {'shaking hands', "
+ "'petting cat'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 27: {'giving or receiving "
+ "award', 'news anchoring'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 28: {'petting cat', "
+ "'training dog', 'grooming horse'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 28: {'giving or receiving "
+ "award', 'cutting nails', 'eating ice cream'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 29: {'petting cat', "
+ "'training dog', 'grooming horse'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 29: {'shaking hands', "
+ "'giving or receiving award', 'reading book'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 30: {'shaking hands', "
+ "'training dog', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 30: {'giving or receiving "
+ "award', 'yawning', 'reading book'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 31: {'cutting nails', "
+ "'petting cat', 'training dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 31: {'giving or receiving "
+ "award', 'eating ice cream', 'yawning'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 32: {'milking cow', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 32: {'building cabinet', "
+ "'yawning'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 33: {'cutting nails', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 33: {'giving or receiving "
+ "award', 'news anchoring'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 34: {'cutting nails', "
+ "'training dog', 'grooming horse'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 34: {'shaking hands', "
+ "'giving or receiving award', 'reading book'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 35: {'cutting nails', "
+ "'training dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 35: {'giving or receiving "
+ "award', 'reading book'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 36: {'petting cat', "
+ "'training dog', 'grooming horse'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 36: {'giving or receiving "
+ "award', 'cutting nails', 'bandaging'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 37: {'giving or receiving "
+ "award', 'sign language interpreting', 'presenting weather forecast'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 37: {'testifying', "
+ "'texting', 'playing poker'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 38: {'giving or receiving "
+ "award', 'presenting weather forecast', 'cleaning toilet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 38: {'playing poker', "
+ "'texting', 'blowing glass'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 39: {'presenting weather "
+ "forecast'}")
+'cnt : 1'
+"Activities in second pkl but not in first for key 39: {'tasting food'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 40: {'presenting weather "
+ "forecast'}")
+'cnt : 1'
+"Activities in second pkl but not in first for key 40: {'playing poker'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 41: {'petting cat'}"
+'cnt : 1'
+("Activities in second pkl but not in first for key 41: {'giving or receiving "
+ "award'}")
+'cnt : 1'
+("Activities in first pkl but not in second for key 42: {'petting cat', "
+ "'training dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 42: {'giving or receiving "
+ "award', 'cutting nails'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 43: {'petting cat', "
+ "'training dog', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 43: {'shaking hands', "
+ "'cutting nails', 'grooming horse'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 44: {'petting cat', "
+ "'walking the dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 44: {'news anchoring', "
+ "'pushing cart'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 45: {'catching fish', 'ice "
+ "fishing'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 45: {'building shed', "
+ "'news anchoring'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 46: {'mopping floor', "
+ "'shredding paper'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 46: {'news anchoring', "
+ "'petting animal (not cat)'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 47: {'shearing sheep', "
+ "'sweeping floor'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 47: {'building shed', "
+ "'petting animal (not cat)'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 48: {'eating spaghetti', "
+ "'dining'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 48: {'laughing', "
+ "'shoveling snow'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 49: {'grooming dog'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 49: {'laughing'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 50: {'petting cat'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 50: {'feeding goats'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 51: {'shaking hands'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 51: {'petting cat'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 52: {'shaking hands', "
+ "'grooming dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 52: {'laughing', 'feeding "
+ "goats'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 54: {'training dog', "
+ "'grooming horse', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 54: {'eating ice cream', "
+ "'eating spaghetti', 'feeding goats'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 55: {'grooming horse', "
+ "'training dog', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 55: {'eating ice cream', "
+ "'feeding goats', 'breading or breadcrumbing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 56: {'shaking hands', "
+ "'grooming dog', 'training dog', 'walking the dog', 'petting animal (not "
+ "cat)'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 56: {'peeling potatoes', "
+ "'feeding birds', 'breading or breadcrumbing', 'milking cow', 'baking "
+ "cookies'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 57: {'laughing', 'shaking "
+ "hands', 'grooming dog', 'training dog', 'walking the dog'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 57: {'peeling potatoes', "
+ "'feeding birds', 'breading or breadcrumbing', 'milking cow', 'eating "
+ "spaghetti'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 58: {'laughing', 'training "
+ "dog', 'shaking hands', 'walking the dog'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 58: {'breading or "
+ "breadcrumbing', 'plastering', 'grooming horse', 'peeling potatoes'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 59: {'peeling apples', "
+ "'training dog', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 59: {'milking cow', "
+ "'dining', 'feeding goats'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 60: {'laughing', 'training "
+ "dog', 'shaking hands', 'walking the dog'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 60: {'eating ice cream', "
+ "'feeding birds', 'milking cow', 'dining'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 61: {'laughing', 'shaking "
+ "hands', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 61: {'milking cow', "
+ "'plastering', 'grooming horse'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 62: {'walking the dog', "
+ "'petting animal (not cat)', 'cleaning toilet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 62: {'eating ice cream', "
+ "'eating chips', 'feeding goats'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 63: {'shaking hands', "
+ "'cutting nails', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 63: {'laughing', 'petting "
+ "animal (not cat)', 'cleaning floor'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 64: {'sled dog racing', "
+ "'walking the dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 64: {'laughing', 'news "
+ "anchoring'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 65: {'shaking hands', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 65: {'giving or receiving "
+ "award', 'kissing'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 66: {'shaking hands', "
+ "'petting cat'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 66: {'giving or receiving "
+ "award', 'cutting nails'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 67: {'shaking hands', "
+ "'training dog', 'grooming horse'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 67: {'giving or receiving "
+ "award', 'cutting nails', 'shearing sheep'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 68: {'shaking hands', "
+ "'cutting nails', 'training dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 68: {'giving or receiving "
+ "award', 'reading book', 'auctioning'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 69: {'petting cat', "
+ "'training dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 69: {'giving or receiving "
+ "award', 'reading book'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 70: {'training dog', "
+ "'hugging baby', 'grooming horse'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 70: {'giving or receiving "
+ "award', 'news anchoring', 'yawning'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 71: {'giving or receiving "
+ "award', 'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 71: {'answering "
+ "questions', 'news anchoring'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 72: {'fixing hair', 'doing "
+ "laundry', 'grooming horse'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 72: {'giving or receiving "
+ "award', 'news anchoring', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 73: {'bandaging', "
+ "'grooming horse', 'washing hands'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 73: {'shaking hands', "
+ "'news anchoring', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 74: {'giving or receiving "
+ "award', 'washing hands'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 74: {'laughing', 'petting "
+ "animal (not cat)'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 75: {'presenting weather "
+ "forecast'}")
+'cnt : 1'
+"Activities in second pkl but not in first for key 75: {'playing chess'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 76: {'laughing', 'giving "
+ "or receiving award'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 76: {'training dog', "
+ "'petting animal (not cat)'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 77: {'playing ice hockey', "
+ "'presenting weather forecast', 'cleaning toilet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 77: {'laughing', 'giving "
+ "or receiving award', 'playing poker'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 78: {'playing ice hockey', "
+ "'presenting weather forecast', 'cleaning toilet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 78: {'laughing', "
+ "'smoking', 'playing poker'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 79: {'auctioning', 'dining'}"
+'cnt : 2'
+("Activities in second pkl but not in first for key 79: {'training dog', "
+ "'petting animal (not cat)'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 80: {'brush painting', "
+ "'spray painting', 'wrapping present', 'reading book'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 80: {'laughing', "
+ "'kissing', 'training dog', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 81: {'yoga', 'sipping "
+ "cup', 'dining'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 81: {'laughing', "
+ "'kissing', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 82: {'dancing ballet', "
+ "'yoga', 'sipping cup', 'drinking beer', 'stretching leg'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 82: {'mopping floor', "
+ "'grooming dog', 'training dog', 'news anchoring', 'answering questions'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 83: {'taking a shower', "
+ "'grooming horse', 'washing hands'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 83: {'answering "
+ "questions', 'news anchoring', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 84: {'taking a shower', "
+ "'doing laundry', 'grooming horse', 'washing hands'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 84: {'laughing', 'training "
+ "dog', 'news anchoring', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 85: {'presenting weather "
+ "forecast', 'cleaning toilet'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 85: {'laughing', 'playing "
+ "poker'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 86: {'grooming horse', "
+ "'training dog', 'news anchoring', 'walking the dog'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 86: {'laughing', 'cutting "
+ "nails', 'answering questions', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 87: {'bandaging', "
+ "'training dog', 'grooming horse'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 87: {'laughing', 'giving "
+ "or receiving award', 'reading book'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 88: {'shaking hands', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 88: {'giving or receiving "
+ "award', 'news anchoring'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 89: {'grooming horse'}"
+'cnt : 1'
+("Activities in second pkl but not in first for key 89: {'giving or receiving "
+ "award'}")
+'cnt : 1'
+("Activities in first pkl but not in second for key 90: {'training dog', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 90: {'eating ice cream', "
+ "'cutting nails'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 91: {'shaking hands'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 91: {'petting cat'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 92: {'laughing', "
+ "'applauding'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 92: {'celebrating', "
+ "'arranging flowers'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 93: {'laughing', "
+ "'answering questions'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 93: {'massaging back', "
+ "'petting animal (not cat)'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 94: {'training dog', "
+ "'grooming horse'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 94: {'shaking hands', "
+ "'giving or receiving award'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 95: {'bandaging', "
+ "'training dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 95: {'giving or receiving "
+ "award', 'cutting nails'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 96: {'training dog', "
+ '\'grooming horse\', "massaging person\'s head"}')
+'cnt : 3'
+("Activities in second pkl but not in first for key 96: {'giving or receiving "
+ "award', 'cracking neck', 'milking cow'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 97: {'grooming horse', "
+ "'training dog', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 97: {'making the bed', "
+ "'massaging back', 'moving furniture'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 98: {'laughing', 'grooming "
+ "horse', 'training dog', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 98: {'making the bed', "
+ "'giving or receiving award', 'massaging back', 'moving furniture'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 99: {'petting cat', "
+ "'grooming horse', 'shearing sheep', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 99: {'making the bed', "
+ "'giving or receiving award', 'massaging back', 'shaking hands'}")
+'cnt : 4'
+'Total : 464'
+'Mean : 2.3434343434343434'

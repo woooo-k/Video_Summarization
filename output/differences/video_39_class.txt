@@ -1,0 +1,5 @@
+[('news anchoring', 32),
+ ('polishing metal', 17),
+ ('grooming horse', 15),
+ ('pulling espresso shot', 15),
+ ('bee keeping', 14)]

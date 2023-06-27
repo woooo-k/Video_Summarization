@@ -1,0 +1,5 @@
+[('bee keeping', 105),
+ ('climbing tree', 83),
+ ('adjusting glasses', 68),
+ ('laying decking', 67),
+ ('side kick', 52)]

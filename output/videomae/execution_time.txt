@@ -1,0 +1,10 @@
+[model : videomae]
+Execution time: 444.81108379364014 seconds
+[model : videomae]
+Execution time: 450.5441656112671 seconds
+[model : videomae]
+Execution time: 439.85389518737793 seconds
+[model : videomae]
+Execution time: 432.8692617416382 seconds
+[model : videomae]
+Execution time: 429.90754652023315 seconds

@@ -1,0 +1,302 @@
+("Activities in first pkl but not in second for key 0: {'front raises', "
+ "'lunge', 'yoga'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 0: {'shredding paper', "
+ "'mowing lawn', 'cleaning windows'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 1: {'archery', 'lunge'}"
+'cnt : 2'
+("Activities in second pkl but not in first for key 1: {'stretching leg', "
+ "'cleaning windows'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 2: {'archery', 'diving "
+ "cliff', 'weaving basket'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 2: {'spraying', "
+ "'stretching arm', 'washing hands'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 3: {'dining', 'blasting "
+ "sand', 'watering plants', 'digging', 'bee keeping'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 3: {'arranging flowers', "
+ "'making jewelry', 'person collecting garbage', 'weaving basket', 'knitting'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 4: {'playing chess', "
+ "'blasting sand', 'auctioning', 'digging', 'bee keeping'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 4: {'braiding hair', "
+ "'kissing', 'person collecting garbage', 'weaving basket', 'knitting'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 5: {'shearing sheep', "
+ "'blasting sand'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 5: {'knitting', 'making "
+ "jewelry'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 6: {'weaving basket', "
+ "'abseiling', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 6: {'building cabinet', "
+ "'reading book', 'chopping wood'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 7: {'weaving basket', "
+ "'abseiling', 'cleaning windows'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 7: {'archery', 'reading "
+ "book', 'chopping wood'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 8: {'weaving basket', "
+ "'abseiling', 'cleaning gutters'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 8: {'archery', 'picking "
+ "apples', 'cleaning windows'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 9: {'climbing tree', "
+ "'watering plants', 'cleaning gutters'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 9: {'archery', 'bee "
+ "keeping', 'cleaning windows'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 10: {'taking a shower', "
+ "'weaving basket', 'abseiling', 'cleaning windows'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 10: {'spraying', 'building "
+ "cabinet', 'spray painting', 'blasting sand'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 11: {'throwing axe', "
+ "'weaving basket', 'abseiling', 'shearing sheep'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 11: {'spraying', 'reading "
+ "book', 'pull ups', 'chopping wood'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 12: {'throwing axe', "
+ "'weaving basket', 'abseiling', 'climbing a rope'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 12: {'archery', 'reading "
+ "book', 'building cabinet', 'pull ups'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 13: {'weaving basket', "
+ "'abseiling', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 13: {'answering "
+ "questions', 'reading book', 'chopping wood'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 14: {'weaving basket', "
+ "'abseiling', 'cleaning windows'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 14: {'spraying', 'building "
+ "cabinet', 'reading book'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 15: {'building cabinet', "
+ "'cleaning gutters'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 15: {'person collecting "
+ "garbage', 'shredding paper'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 16: {'cutting pineapple'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 16: {'feeding birds'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 17: {'weaving basket', "
+ "'trimming trees'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 17: {'cheerleading', "
+ "'feeding birds'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 18: {'knitting', 'shearing "
+ "sheep', 'cleaning gutters'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 18: {'unloading truck', "
+ "'person collecting garbage', 'shredding paper'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 19: {'stretching leg', "
+ "'sharpening knives', 'cleaning gutters'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 19: {'brushing hair', "
+ "'plastering', 'bee keeping'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 20: {'sharpening knives', "
+ "'golf chipping'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 20: {'spraying', "
+ "'plastering'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 21: {'archery', "
+ "'sharpening knives', 'cleaning gutters'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 21: {'throwing axe', "
+ "'plastering', 'chopping wood'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 22: {'plastering'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 22: {'climbing ladder'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 23: {'sharpening knives', "
+ "'building cabinet', 'cutting pineapple'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 23: {'feeding birds', "
+ "'throwing axe', 'cleaning gutters'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 24: {'sharpening knives'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 24: {'throwing axe'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 25: {'weaving basket', "
+ "'sharpening knives'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 25: {'spraying', 'cleaning "
+ "windows'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 26: {'weaving basket', "
+ "'abseiling', 'playing didgeridoo'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 26: {'spraying', 'building "
+ "cabinet', 'cleaning gutters'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 27: {'weaving basket', "
+ "'abseiling', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 27: {'spraying', 'building "
+ "cabinet', 'cleaning gutters'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 28: {'weaving basket', "
+ "'abseiling', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 28: {'building cabinet', "
+ "'blasting sand', 'cleaning gutters'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 29: {'weaving basket', "
+ "'abseiling', 'shearing sheep', 'cleaning windows'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 29: {'spraying', "
+ "'archery', 'building cabinet', 'blasting sand'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 30: {'weaving basket', "
+ "'abseiling', 'playing didgeridoo', 'cleaning windows'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 30: {'spraying', 'building "
+ "cabinet', 'blasting sand', 'cleaning gutters'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 31: {'weaving basket', "
+ "'abseiling', 'playing didgeridoo', 'cleaning windows'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 31: {'spraying', 'building "
+ "cabinet', 'blasting sand', 'cleaning gutters'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 32: {'weaving basket', "
+ "'abseiling', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 32: {'building cabinet', "
+ "'blasting sand', 'cleaning gutters'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 33: {'weaving basket', "
+ "'abseiling', 'playing didgeridoo', 'cleaning windows'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 33: {'throwing axe', "
+ "'brush painting', 'building shed', 'archery'}")
+'cnt : 4'
+"Activities in first pkl but not in second for key 34: {'sword fighting'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 34: {'brush painting'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 35: {'digging', 'building "
+ "cabinet', 'cleaning windows'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 35: {'using remote "
+ "controller (not gaming)', 'building shed', 'reading book'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 36: {'cleaning windows', "
+ "'catching or throwing baseball', 'playing cymbals', 'catching or throwing "
+ "softball', 'grooming horse'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 36: {'cleaning gutters', "
+ "'building shed', 'brushing hair', 'laying bricks', 'bee keeping'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 37: {'catching or throwing "
+ "baseball', 'hitting baseball', 'grooming horse', 'playing cymbals'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 37: {'brushing hair', "
+ "'weaving basket', 'building cabinet', 'building shed'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 38: {'cleaning shoes', "
+ "'catching or throwing baseball', 'grooming horse', 'catching or throwing "
+ "softball', 'bee keeping'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 38: {'cleaning gutters', "
+ "'building shed', 'brushing hair', 'laying bricks', 'building cabinet'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 39: {'catching or throwing "
+ "baseball', 'throwing axe', 'catching or throwing softball', 'golf chipping', "
+ "'grooming horse'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 39: {'playing organ', "
+ "'making jewelry', 'person collecting garbage', 'knitting', 'bee keeping'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 40: {'hammer throw', "
+ "'catching or throwing baseball', 'milking cow', 'playing cricket', 'grooming "
+ "horse'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 40: {'making jewelry', "
+ "'making a cake', 'person collecting garbage', 'weaving basket', 'knitting'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 41: {'riding or walking "
+ "with horse', 'hammer throw', 'throwing axe', 'milking cow', 'grooming "
+ "horse'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 41: {'building shed', "
+ "'spray painting', 'weaving basket', 'knitting', 'bee keeping'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 42: {'archery', "
+ "'abseiling', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 42: {'bee keeping', "
+ "'blasting sand', 'cleaning windows'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 43: {'playing chess', "
+ "'digging'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 43: {'cheerleading', "
+ "'singing'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 44: {'playing chess', "
+ "'digging', 'yoga'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 44: {'contact juggling', "
+ "'knitting', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 45: {'playing chess', "
+ "'planting trees', 'reading book', 'weaving basket', 'bee keeping'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 45: {'celebrating', "
+ "'folding napkins', 'doing nails', 'making jewelry', 'knitting'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 46: {'bookbinding', "
+ "'playing squash or racquetball', 'reading book', 'weaving basket', 'country "
+ "line dancing'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 46: {'tying knot (not on a "
+ "tie)', 'folding napkins', 'setting table', 'stretching leg', 'applying "
+ "cream'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 47: {'bookbinding', "
+ "'playing squash or racquetball', 'plastering', 'reading book', 'weaving "
+ "basket'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 47: {'yoga', 'tying knot "
+ "(not on a tie)', 'folding napkins', 'setting table', 'stretching leg'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 48: {'throwing axe', "
+ "'playing squash or racquetball', 'front raises', 'sign language "
+ "interpreting', 'country line dancing'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 48: {'tai chi', 'yoga', "
+ "'folding napkins', 'setting table', 'stretching leg'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 49: {'diving cliff', "
+ "'beatboxing', 'singing', 'washing hands'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 49: {'snowkiting', "
+ "'spinning poi', 'yoga', 'dunking basketball'}")
+'cnt : 4'
+'Total : 332'
+'Mean : 3.32'

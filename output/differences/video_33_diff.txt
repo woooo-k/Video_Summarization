@@ -1,0 +1,1314 @@
+("Activities in first pkl but not in second for key 0: {'playing volleyball', "
+ "'high jump', 'javelin throw'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 0: {'tai chi', 'shot put', "
+ "'archery'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 1: {'golf putting', "
+ "'playing volleyball', 'golf chipping'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 1: {'archery', 'high "
+ "kick', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 2: {'playing volleyball', "
+ "'cheerleading', 'playing trombone', 'high kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 2: {'tai chi', 'archery', "
+ "'singing', 'playing badminton'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 3: {'cheerleading', "
+ "'playing volleyball', 'dodgeball'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 3: {'tai chi', 'spinning "
+ "poi', 'archery'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 4: {'throwing discus', "
+ "'shot put', 'playing volleyball'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 4: {'tai chi', 'singing', "
+ "'archery'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 5: {'playing volleyball', "
+ "'playing badminton'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 5: {'catching or throwing "
+ "baseball', 'throwing ball'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 6: {'archery', 'playing "
+ "volleyball', 'high kick', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 6: {'catching or throwing "
+ "baseball', 'tai chi', 'passing American football (not in game)', "
+ "'dodgeball'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 7: {'archery', 'playing "
+ "volleyball', 'skipping rope', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 7: {'catching or throwing "
+ "baseball', 'tai chi', 'passing American football (not in game)', 'singing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 8: {'throwing discus', "
+ "'playing volleyball', 'high jump'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 8: {'tai chi', 'singing', "
+ "'archery'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 9: {'playing volleyball', "
+ "'golf chipping'}")
+'cnt : 2'
+"Activities in second pkl but not in first for key 9: {'tai chi', 'shot put'}"
+'cnt : 2'
+("Activities in first pkl but not in second for key 10: {'playing volleyball', "
+ "'dodgeball'}")
+'cnt : 2'
+"Activities in second pkl but not in first for key 10: {'tai chi', 'shot put'}"
+'cnt : 2'
+"Activities in first pkl but not in second for key 11: {'skipping rope'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 11: {'tai chi'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 12: {'archery', "
+ "'dodgeball', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 12: {'tai chi', 'shot "
+ "put', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 13: {'golf chipping', "
+ "'playing badminton'}")
+'cnt : 2'
+"Activities in second pkl but not in first for key 13: {'tai chi', 'shot put'}"
+'cnt : 2'
+("Activities in first pkl but not in second for key 14: {'golf chipping', "
+ "'playing badminton'}")
+'cnt : 2'
+"Activities in second pkl but not in first for key 14: {'tai chi', 'dodgeball'}"
+'cnt : 2'
+("Activities in first pkl but not in second for key 15: {'skipping rope', "
+ "'playing badminton'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 15: {'giving or receiving "
+ "award', 'tai chi'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 16: {'skipping rope', "
+ "'high kick'}")
+'cnt : 2'
+"Activities in second pkl but not in first for key 16: {'tai chi', 'singing'}"
+'cnt : 2'
+"Activities in first pkl but not in second for key 17: {'shot put', 'archery'}"
+'cnt : 2'
+"Activities in second pkl but not in first for key 17: {'tai chi', 'singing'}"
+'cnt : 2'
+("Activities in first pkl but not in second for key 18: {'shot put', 'playing "
+ "volleyball'}")
+'cnt : 2'
+"Activities in second pkl but not in first for key 18: {'tai chi', 'singing'}"
+'cnt : 2'
+"Activities in first pkl but not in second for key 19: {'playing volleyball'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 19: {'tai chi'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 20: {'skiing "
+ "crosscountry', 'playing volleyball', 'golf chipping'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 20: {'tai chi', 'singing', "
+ "'archery'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 21: {'playing volleyball', "
+ "'golf chipping'}")
+'cnt : 2'
+"Activities in second pkl but not in first for key 21: {'tai chi', 'singing'}"
+'cnt : 2'
+("Activities in first pkl but not in second for key 22: {'playing volleyball', "
+ "'golf chipping'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 22: {'playing harmonica', "
+ "'singing'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 23: {'skipping rope', "
+ "'playing badminton', 'playing tennis', 'whistling', 'playing flute'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 23: {'playing volleyball', "
+ "'shot put', 'passing American football (not in game)', 'dodgeball', 'playing "
+ "harmonica'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 24: {'reading newspaper', "
+ "'whistling', 'answering questions'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 24: {'playing volleyball', "
+ "'dribbling basketball', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 25: {'stretching arm', "
+ "'skipping rope', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 25: {'dribbling "
+ "basketball', 'passing American football (not in game)', 'dodgeball'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 26: {'roller skating', "
+ "'skipping rope', 'dodgeball', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 26: {'giving or receiving "
+ "award', 'tai chi', 'dribbling basketball', 'shot put'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 27: {'archery', 'playing "
+ "volleyball', 'skipping rope', 'dodgeball'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 27: {'testifying', 'tai "
+ "chi', 'answering questions', 'singing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 28: {'playing clarinet', "
+ "'playing trombone', 'tap dancing', 'tango dancing'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 28: {'testifying', 'giving "
+ "or receiving award', 'answering questions', 'singing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 29: {'playing trombone', "
+ "'whistling', 'tango dancing'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 29: {'testifying', 'giving "
+ "or receiving award', 'dribbling basketball'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 30: {'auctioning', "
+ "'stretching arm', 'tango dancing'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 30: {'testifying', "
+ "'playing harmonica', 'answering questions'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 31: {'sign language "
+ "interpreting', 'stretching arm', 'tango dancing'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 31: {'testifying', 'giving "
+ "or receiving award', 'answering questions'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 32: {'shooting "
+ "basketball', 'passing American football (not in game)', 'dribbling "
+ "basketball', 'playing basketball'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 32: {'testifying', 'tai "
+ "chi', 'giving or receiving award', 'answering questions'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 33: {'shooting "
+ "basketball', 'playing volleyball', 'skipping rope', 'dodgeball'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 33: {'giving or receiving "
+ "award', 'robot dancing', 'answering questions', 'side kick'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 34: {'playing volleyball', "
+ "'skipping rope', 'dodgeball', 'playing badminton', 'playing tennis'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 34: {'tai chi', 'giving or "
+ "receiving award', 'dribbling basketball', 'side kick', 'answering "
+ "questions'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 35: {'stretching arm', "
+ "'playing volleyball', 'skipping rope', 'dodgeball'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 35: {'testifying', 'giving "
+ "or receiving award', 'answering questions', 'whistling'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 36: {'playing tennis', "
+ "'stretching arm', 'skipping rope', 'stretching leg'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 36: {'testifying', "
+ "'playing harmonica', 'giving or receiving award', 'answering questions'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 37: {'playing volleyball', "
+ "'playing badminton', 'playing tennis', 'throwing ball', 'shooting "
+ "basketball'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 37: {'testifying', "
+ "'playing trombone', 'giving or receiving award', 'playing harmonica', "
+ "'answering questions'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 38: {'playing volleyball', "
+ "'playing trombone', 'playing badminton', 'playing tennis', 'tap dancing'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 38: {'testifying', 'giving "
+ "or receiving award', 'playing harmonica', 'whistling', 'answering "
+ "questions'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 39: {'tai chi', 'playing "
+ "tennis', 'stretching arm', 'throwing ball', 'stretching leg'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 39: {'testifying', 'giving "
+ "or receiving award', 'playing harmonica', 'whistling', 'answering "
+ "questions'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 40: {'tai chi', 'skipping "
+ "rope', 'playing badminton', 'dribbling basketball', 'shooting basketball'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 40: {'testifying', 'giving "
+ "or receiving award', 'playing harmonica', 'whistling', 'answering "
+ "questions'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 41: {'shooting "
+ "basketball', 'playing volleyball', 'skipping rope', 'dodgeball'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 41: {'testifying', 'tai "
+ "chi', 'giving or receiving award', 'answering questions'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 42: {'shooting "
+ "basketball', 'playing volleyball', 'throwing ball', 'dodgeball'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 42: {'testifying', 'giving "
+ "or receiving award', 'answering questions', 'whistling'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 43: {'playing tennis', "
+ "'playing volleyball', 'stretching arm'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 43: {'auctioning', "
+ "'answering questions', 'whistling'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 44: {'testifying', "
+ "'archery', 'stretching arm'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 44: {'answering "
+ "questions', 'whistling', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 45: {'sign language "
+ "interpreting', 'stretching arm'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 45: {'testifying', "
+ "'answering questions'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 46: {'playing tennis', "
+ "'sign language interpreting', 'shooting basketball', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 46: {'testifying', "
+ "'playing harmonica', 'giving or receiving award', 'answering questions'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 47: {'playing tennis', "
+ "'shooting basketball', 'stretching arm', 'side kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 47: {'giving or receiving "
+ "award', 'playing harmonica', 'answering questions', 'whistling'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 48: {'playing volleyball', "
+ "'skipping rope', 'dodgeball', 'playing tennis', 'shooting basketball'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 48: {'testifying', 'giving "
+ "or receiving award', 'whistling', 'auctioning', 'answering questions'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 49: {'playing volleyball', "
+ "'skipping rope', 'playing badminton', 'playing basketball', 'shooting "
+ "basketball'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 49: {'testifying', 'tai "
+ "chi', 'singing', 'giving or receiving award', 'answering questions'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 50: {'playing volleyball', "
+ "'skipping rope', 'playing badminton', 'playing basketball', 'shooting "
+ "basketball'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 50: {'testifying', 'tai "
+ "chi', 'singing', 'giving or receiving award', 'playing violin'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 51: {'playing volleyball', "
+ "'skipping rope', 'playing badminton', 'playing tennis', 'shooting "
+ "basketball'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 51: {'tai chi', 'playing "
+ "trombone', 'giving or receiving award', 'playing violin', 'playing "
+ "clarinet'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 52: {'playing volleyball', "
+ "'skipping rope', 'playing badminton', 'playing tennis', 'shooting "
+ "basketball'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 52: {'tai chi', 'singing', "
+ "'giving or receiving award', 'playing clarinet', 'answering questions'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 53: {'playing tennis', "
+ "'playing badminton'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 53: {'playing harmonica', "
+ "'singing'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 54: {'shaking hands', "
+ "'playing tennis', 'skipping rope', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 54: {'playing clarinet', "
+ "'playing volleyball', 'playing saxophone', 'singing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 55: {'playing tennis', "
+ "'skipping rope', 'dodgeball', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 55: {'testifying', 'tai "
+ "chi', 'giving or receiving award', 'singing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 56: {'playing tennis', "
+ "'skipping rope'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 56: {'shot put', "
+ "'dribbling basketball'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 57: {'playing tennis', "
+ "'playing volleyball', 'skipping rope', 'dodgeball'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 57: {'giving or receiving "
+ "award', 'tai chi', 'shot put', 'singing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 58: {'roller skating', "
+ "'playing volleyball', 'tango dancing'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 58: {'tai chi', 'singing', "
+ "'archery'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 59: {'stretching arm', "
+ "'skipping rope', 'throwing ball', 'archery'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 59: {'testifying', "
+ "'playing harmonica', 'answering questions', 'singing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 60: {'giving or receiving "
+ "award', 'playing trombone', 'playing clarinet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 60: {'testifying', "
+ "'playing harmonica', 'answering questions'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 61: {'playing tennis', "
+ "'skipping rope', 'auctioning', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 61: {'testifying', "
+ "'playing harmonica', 'answering questions', 'hitting baseball'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 62: {'shooting "
+ "basketball', 'high jump', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 62: {'shaking hands', 'tai "
+ "chi', 'dribbling basketball'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 63: {'playing volleyball', "
+ "'skipping rope', 'playing badminton', 'playing tennis', 'shooting "
+ "basketball'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 63: {'testifying', 'tai "
+ "chi', 'shot put', 'singing', 'dribbling basketball'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 64: {'playing tennis', "
+ "'playing volleyball', 'skipping rope', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 64: {'testifying', 'shot "
+ "put', 'giving or receiving award', 'singing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 65: {'playing tennis', "
+ "'archery', 'playing volleyball', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 65: {'testifying', 'tai "
+ "chi', 'shot put', 'singing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 66: {'applauding', "
+ "'playing volleyball', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 66: {'testifying', 'tai "
+ "chi', 'dribbling basketball'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 67: {'playing tennis', "
+ "'skipping rope', 'answering questions', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 67: {'testifying', "
+ "'playing harmonica', 'whistling', 'singing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 68: {'auctioning', "
+ "'whistling', 'tango dancing'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 68: {'testifying', "
+ "'playing harmonica', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 69: {'shooting "
+ "basketball', 'skipping rope', 'tango dancing', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 69: {'testifying', 'tai "
+ "chi', 'giving or receiving award', 'dribbling basketball'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 70: {'playing volleyball', "
+ "'skipping rope'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 70: {'testifying', "
+ "'passing American football (not in game)'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 71: {'playing tennis', "
+ "'playing volleyball', 'skipping rope', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 71: {'giving or receiving "
+ "award', 'robot dancing', 'singing', 'tango dancing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 72: {'playing volleyball', "
+ "'shot put', 'skipping rope', 'playing badminton', 'playing tennis'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 72: {'tai chi', 'catching "
+ "or throwing baseball', 'giving or receiving award', 'dribbling basketball', "
+ "'robot dancing'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 73: {'playing volleyball', "
+ "'shot put', 'skipping rope', 'playing badminton', 'playing tennis'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 73: {'tai chi', 'singing', "
+ "'giving or receiving award', 'whistling', 'tango dancing'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 74: {'playing tennis', "
+ "'playing volleyball', 'skipping rope'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 74: {'giving or receiving "
+ "award', 'high kick', 'tango dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 75: {'playing volleyball', "
+ "'skipping rope', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 75: {'robot dancing', "
+ "'dribbling basketball', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 76: {'playing volleyball', "
+ "'skipping rope', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 76: {'testifying', 'robot "
+ "dancing', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 77: {'playing tennis', "
+ "'archery', 'skipping rope', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 77: {'catching or throwing "
+ "baseball', 'robot dancing', 'giving or receiving award', 'dribbling "
+ "basketball'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 78: {'playing volleyball', "
+ "'skipping rope', 'tango dancing', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 78: {'catching or throwing "
+ "baseball', 'high kick', 'dribbling basketball', 'side kick'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 79: {'skipping rope', "
+ "'playing badminton'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 79: {'catching or throwing "
+ "baseball', 'passing American football (not in game)'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 80: {'playing volleyball', "
+ "'skipping rope', 'dodgeball', 'playing badminton', 'playing tennis'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 80: {'tai chi', 'catching "
+ "or throwing baseball', 'shot put', 'passing American football (not in "
+ "game)', 'singing'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 81: {'playing tennis', "
+ "'playing volleyball', 'skipping rope', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 81: {'stretching arm', "
+ "'high kick', 'singing', 'side kick'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 82: {'playing volleyball', "
+ "'skipping rope', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 82: {'shaking hands', "
+ "'high kick', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 83: {'playing volleyball', "
+ "'skipping rope', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 83: {'high kick', "
+ "'singing', 'side kick'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 84: {'playing tennis', "
+ "'playing volleyball', 'skipping rope', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 84: {'robot dancing', "
+ "'high kick', 'dribbling basketball', 'side kick'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 85: {'playing volleyball', "
+ "'skipping rope', 'dodgeball', 'playing badminton', 'playing tennis'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 85: {'tai chi', 'juggling "
+ "balls', 'dribbling basketball', 'robot dancing', 'contact juggling'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 86: {'playing volleyball', "
+ "'skipping rope', 'dodgeball', 'playing badminton', 'playing tennis'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 86: {'tai chi', 'high "
+ "kick', 'juggling balls', 'dribbling basketball', 'shooting basketball'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 87: {'playing trombone', "
+ "'playing volleyball', 'skipping rope', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 87: {'robot dancing', "
+ "'high kick', 'dribbling basketball', 'juggling balls'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 88: {'playing tennis', "
+ "'playing volleyball', 'skipping rope'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 88: {'tai chi', "
+ "'headbutting', 'robot dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 89: {'playing tennis', "
+ "'playing volleyball', 'skipping rope', 'shooting basketball'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 89: {'tai chi', 'high "
+ "kick', 'tango dancing', 'robot dancing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 90: {'giving or receiving "
+ "award', 'cheerleading', 'playing volleyball', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 90: {'skipping rope', "
+ "'high kick', 'singing', 'tango dancing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 91: {'playing tennis', "
+ "'playing volleyball', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 91: {'passing American "
+ "football (not in game)', 'singing', 'tango dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 92: {'playing tennis', "
+ "'playing volleyball', 'high kick', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 92: {'robot dancing', "
+ "'dribbling basketball', 'singing', 'tango dancing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 93: {'playing volleyball', "
+ "'high kick', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 93: {'catching or throwing "
+ "baseball', 'passing American football (not in game)', 'dribbling "
+ "basketball'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 94: {'playing badminton', "
+ "'playing volleyball', 'high kick', 'marching'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 94: {'catching or throwing "
+ "baseball', 'robot dancing', 'passing American football (not in game)', "
+ "'dribbling basketball'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 95: {'playing volleyball', "
+ "'playing trombone', 'marching', 'skipping rope', 'playing badminton'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 95: {'testifying', 'tai "
+ "chi', 'shaking hands', 'giving or receiving award', 'tango dancing'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 96: {'giving or receiving "
+ "award'}")
+'cnt : 1'
+"Activities in second pkl but not in first for key 96: {'answering questions'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 97: {'playing tennis', "
+ "'playing volleyball', 'skipping rope', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 97: {'testifying', 'tai "
+ "chi', 'playing saxophone', 'answering questions'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 98: {'playing tennis', "
+ "'high jump', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 98: {'giving or receiving "
+ "award', 'tai chi', 'throwing ball'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 99: {'playing tennis', "
+ "'high jump'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 99: {'giving or receiving "
+ "award', 'tai chi'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 100: {'cheerleading', "
+ "'sign language interpreting', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 100: {'skipping rope', "
+ "'dribbling basketball', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 101: {'tango dancing', "
+ "'playing badminton'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 101: {'dribbling "
+ "basketball', 'singing'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 102: {'playing tennis', "
+ "'playing volleyball', 'skipping rope', 'playing badminton'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 102: {'testifying', 'shot "
+ "put', 'catching or throwing baseball', 'passing American football (not in "
+ "game)'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 103: {'playing tennis', "
+ "'skipping rope', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 103: {'catching or "
+ "throwing baseball', 'tai chi', 'dribbling basketball'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 104: {'playing tennis', "
+ "'archery'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 104: {'testifying', 'tai "
+ "chi'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 105: {'cheerleading', "
+ "'high jump', 'playing badminton'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 105: {'tai chi', 'roller "
+ "skating', 'dribbling basketball'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 106: {'playing "
+ "volleyball', 'high jump'}")
+'cnt : 2'
+"Activities in second pkl but not in first for key 106: {'tai chi', 'shot put'}"
+'cnt : 2'
+("Activities in first pkl but not in second for key 107: {'playing "
+ "volleyball', 'playing squash or racquetball'}")
+'cnt : 2'
+"Activities in second pkl but not in first for key 107: {'tai chi', 'singing'}"
+'cnt : 2'
+("Activities in first pkl but not in second for key 108: {'playing tennis', "
+ "'skipping rope', 'playing basketball'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 108: {'giving or receiving "
+ "award', 'tai chi', 'dribbling basketball'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 109: {'cheerleading', "
+ "'stretching arm', 'dodgeball'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 109: {'skipping rope', "
+ "'singing', 'playing badminton'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 110: {'cheerleading', "
+ "'playing volleyball', 'high kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 110: {'archery', 'skipping "
+ "rope', 'beatboxing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 111: {'cheerleading', "
+ "'high kick'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 111: {'shooting "
+ "basketball', 'skipping rope'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 112: {'archery'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 112: {'skipping rope'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 113: {'high kick'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 113: {'skipping rope'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 114: {'roller skating', "
+ "'marching'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 114: {'cheerleading', "
+ "'skipping rope'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 115: {'tai chi', "
+ "'marching', 'catching or throwing frisbee'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 115: {'cheerleading', "
+ "'playing volleyball', 'skipping rope'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 116: {'archery', 'marching'}"
+'cnt : 2'
+("Activities in second pkl but not in first for key 116: {'dancing gangnam "
+ "style', 'doing aerobics'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 117: {'archery', "
+ "'stretching arm'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 117: {'dancing gangnam "
+ "style', 'marching'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 118: {'archery', "
+ "'stretching arm'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 118: {'cheerleading', "
+ "'playing volleyball'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 119: {'tai chi', 'high "
+ "kick', 'archery'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 119: {'cheerleading', "
+ "'zumba', 'playing volleyball'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 120: {'archery'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 120: {'cheerleading'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 121: {'archery'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 121: {'playing volleyball'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 122: {'tai chi'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 122: {'cheerleading'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 123: {'tai chi', "
+ "'marching', 'archery'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 123: {'cheerleading', "
+ "'skipping rope', 'salsa dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 124: {'archery', "
+ "'stretching arm', 'dodgeball'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 124: {'dancing gangnam "
+ "style', 'marching', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 125: {'doing aerobics', "
+ "'dodgeball'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 125: {'dancing gangnam "
+ "style', 'jumpstyle dancing'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 126: {'zumba', 'dodgeball'}"
+'cnt : 2'
+("Activities in second pkl but not in first for key 126: {'dancing gangnam "
+ "style', 'jumpstyle dancing'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 127: {'zumba', 'dodgeball'}"
+'cnt : 2'
+("Activities in second pkl but not in first for key 127: {'dancing gangnam "
+ "style', 'jumpstyle dancing'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 128: {'marching', "
+ "'swinging legs'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 128: {'dancing gangnam "
+ "style', 'doing aerobics'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 129: {'marching'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 129: {'cheerleading'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 130: {'archery', "
+ "'stretching arm'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 130: {'cheerleading', "
+ "'marching'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 131: {'archery', 'side "
+ "kick'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 131: {'cheerleading', "
+ "'dodgeball'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 132: {'marching', 'side "
+ "kick'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 132: {'dancing gangnam "
+ "style', 'salsa dancing'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 133: {'stretching leg', "
+ "'swinging legs', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 133: {'cheerleading', "
+ "'archery', 'playing volleyball'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 134: {'stretching leg', "
+ "'high kick', 'swinging legs', 'side kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 134: {'roller skating', "
+ "'cheerleading', 'playing volleyball', 'archery'}")
+'cnt : 4'
+"Activities in first pkl but not in second for key 135: {'doing aerobics'}"
+'cnt : 1'
+("Activities in second pkl but not in first for key 135: {'dancing gangnam "
+ "style'}")
+'cnt : 1'
+("Activities in first pkl but not in second for key 136: {'roller skating', "
+ "'playing volleyball'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 136: {'dancing gangnam "
+ "style', 'dancing macarena'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 137: {'stretching arm', "
+ "'playing volleyball', 'high kick', 'archery'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 137: {'dancing gangnam "
+ "style', 'dancing macarena', 'doing aerobics', 'zumba'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 138: {'roller skating', "
+ "'marching', 'high kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 138: {'zumba', 'dancing "
+ "macarena', 'salsa dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 139: {'marching', 'high "
+ "kick', 'swinging legs', 'side kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 139: {'dancing gangnam "
+ "style', 'dancing macarena', 'zumba', 'country line dancing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 140: {'playing trombone', "
+ "'stretching arm', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 140: {'zumba', 'doing "
+ "aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 141: {'playing "
+ "volleyball', 'dodgeball', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 141: {'zumba', 'dancing "
+ "macarena', 'doing aerobics'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 142: {'tai chi', 'playing "
+ "volleyball', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 142: {'zumba', 'dancing "
+ "macarena', 'doing aerobics'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 143: {'playing "
+ "volleyball', 'dodgeball', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 143: {'zumba', 'doing "
+ "aerobics', 'salsa dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 144: {'playing "
+ "volleyball', 'marching'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 144: {'zumba', 'doing "
+ "aerobics'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 145: {'archery', 'playing "
+ "volleyball', 'catching or throwing frisbee', 'marching'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 145: {'cheerleading', "
+ "'salsa dancing', 'dodgeball', 'country line dancing'}")
+'cnt : 4'
+"Activities in first pkl but not in second for key 146: {'marching'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 146: {'zumba'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 147: {'archery', 'high "
+ "kick'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 147: {'zumba', 'salsa "
+ "dancing'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 148: {'stretching leg', "
+ "'playing volleyball', 'side kick', 'marching'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 148: {'cheerleading', "
+ "'zumba', 'doing aerobics', 'skipping rope'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 149: {'stretching leg', "
+ "'playing volleyball', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 149: {'zumba', 'doing "
+ "aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 150: {'stretching arm', "
+ "'playing volleyball', 'high kick', 'marching'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 150: {'zumba', 'dancing "
+ "macarena', 'doing aerobics', 'salsa dancing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 151: {'stretching leg', "
+ "'marching', 'swinging legs', 'side kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 151: {'cheerleading', "
+ "'zumba', 'doing aerobics', 'skipping rope'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 152: {'giving or receiving "
+ "award', 'dancing gangnam style'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 152: {'zumba', 'doing "
+ "aerobics'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 153: {'playing "
+ "volleyball', 'side kick', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 153: {'zumba', 'doing "
+ "aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 154: {'stretching leg', "
+ "'marching', 'swinging legs', 'side kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 154: {'cheerleading', "
+ "'zumba', 'doing aerobics', 'skipping rope'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 155: {'playing "
+ "volleyball', 'stretching arm', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 155: {'zumba', 'salsa "
+ "dancing', 'country line dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 156: {'stretching leg', "
+ "'marching', 'swinging legs', 'side kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 156: {'cheerleading', "
+ "'zumba', 'doing aerobics', 'skipping rope'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 157: {'playing "
+ "volleyball', 'side kick', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 157: {'dancing gangnam "
+ "style', 'doing aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 158: {'marching', 'side "
+ "kick'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 158: {'dancing gangnam "
+ "style', 'zumba'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 159: {'stretching leg', "
+ "'swinging legs', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 159: {'zumba', 'doing "
+ "aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 160: {'stretching leg', "
+ "'marching', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 160: {'zumba', 'doing "
+ "aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 161: {'playing "
+ "volleyball', 'side kick', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 161: {'zumba', 'doing "
+ "aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 162: {'marching', "
+ "'swinging legs', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 162: {'zumba', 'doing "
+ "aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 163: {'marching', "
+ "'swinging legs', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 163: {'dancing gangnam "
+ "style', 'zumba', 'doing aerobics'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 164: {'playing "
+ "volleyball', 'stretching arm', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 164: {'dancing gangnam "
+ "style', 'dancing macarena', 'country line dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 165: {'playing "
+ "volleyball', 'high kick', 'dodgeball', 'marching'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 165: {'dancing gangnam "
+ "style', 'dancing macarena', 'zumba', 'country line dancing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 166: {'marching', 'playing "
+ "basketball', 'dunking basketball'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 166: {'dancing macarena', "
+ "'doing aerobics', 'country line dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 167: {'roller skating', "
+ "'playing volleyball', 'high kick', 'dodgeball'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 167: {'zumba', 'dancing "
+ "macarena', 'doing aerobics', 'country line dancing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 168: {'playing "
+ "volleyball', 'high kick'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 168: {'zumba', 'dancing "
+ "macarena'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 169: {'playing "
+ "volleyball', 'high kick', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 169: {'roller skating', "
+ "'dodgeball', 'country line dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 170: {'stretching leg', "
+ "'swinging legs', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 170: {'cheerleading', "
+ "'doing aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 171: {'stretching leg', "
+ "'swinging legs', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 171: {'cheerleading', "
+ "'doing aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 172: {'playing "
+ "volleyball', 'dodgeball', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 172: {'dancing gangnam "
+ "style', 'doing aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 173: {'stretching leg', "
+ "'playing volleyball', 'side kick', 'marching'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 173: {'dancing gangnam "
+ "style', 'cheerleading', 'doing aerobics', 'skipping rope'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 174: {'stretching leg', "
+ "'playing volleyball', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 174: {'cheerleading', "
+ "'doing aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 175: {'playing "
+ "volleyball', 'side kick', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 175: {'zumba', 'doing "
+ "aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 176: {'stretching leg', "
+ "'stretching arm', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 176: {'cheerleading', "
+ "'doing aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 177: {'playing "
+ "volleyball', 'stretching arm', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 177: {'zumba', 'doing "
+ "aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 178: {'playing "
+ "volleyball', 'side kick', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 178: {'dancing gangnam "
+ "style', 'zumba', 'doing aerobics'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 179: {'stretching leg', "
+ "'marching', 'country line dancing', 'side kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 179: {'cheerleading', "
+ "'zumba', 'dancing gangnam style', 'doing aerobics'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 180: {'dancing gangnam "
+ "style', 'marching'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 180: {'zumba', 'doing "
+ "aerobics'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 181: {'stretching leg', "
+ "'playing volleyball', 'side kick', 'marching'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 181: {'dancing gangnam "
+ "style', 'cheerleading', 'doing aerobics', 'zumba'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 182: {'cheerleading', "
+ "'playing volleyball', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 182: {'dancing gangnam "
+ "style', 'zumba', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 183: {'playing "
+ "volleyball', 'side kick', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 183: {'cheerleading', "
+ "'zumba', 'dancing gangnam style'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 184: {'playing "
+ "volleyball', 'side kick', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 184: {'dancing gangnam "
+ "style', 'doing aerobics', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 185: {'playing "
+ "volleyball', 'side kick', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 185: {'dancing gangnam "
+ "style', 'zumba', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 186: {'cheerleading', "
+ "'archery', 'playing volleyball'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 186: {'dancing gangnam "
+ "style', 'zumba', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 187: {'stretching leg', "
+ "'playing volleyball', 'stretching arm', 'side kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 187: {'cheerleading', "
+ "'zumba', 'doing aerobics', 'skipping rope'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 188: {'stretching leg', "
+ "'stretching arm', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 188: {'cheerleading', "
+ "'dancing macarena', 'doing aerobics'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 189: {'front raises', "
+ "'stretching arm'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 189: {'cheerleading', "
+ "'marching'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 190: {'stretching arm'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 190: {'marching'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 191: {'playing "
+ "volleyball', 'stretching arm'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 191: {'marching', 'doing "
+ "aerobics'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 192: {'archery', 'playing "
+ "volleyball', 'doing aerobics'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 192: {'dancing gangnam "
+ "style', 'dancing macarena', 'zumba'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 193: {'archery', 'playing "
+ "volleyball', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 193: {'zumba', 'marching', "
+ "'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 194: {'archery', 'playing "
+ "volleyball', 'stretching arm', 'side kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 194: {'dancing gangnam "
+ "style', 'cheerleading', 'marching', 'doing aerobics'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 195: {'front raises', "
+ "'playing volleyball', 'archery', 'side kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 195: {'dancing gangnam "
+ "style', 'cheerleading', 'marching', 'doing aerobics'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 196: {'stretching leg', "
+ "'playing volleyball', 'side kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 196: {'dancing gangnam "
+ "style', 'zumba', 'doing aerobics'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 197: {'playing "
+ "volleyball', 'side kick', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 197: {'dancing gangnam "
+ "style', 'zumba', 'doing aerobics'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 198: {'stretching leg', "
+ "'playing volleyball', 'side kick', 'marching'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 198: {'cheerleading', "
+ "'dancing charleston', 'salsa dancing', 'doing aerobics'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 199: {'stretching leg', "
+ "'playing volleyball', 'side kick', 'marching'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 199: {'cheerleading', "
+ "'dancing charleston', 'skipping rope', 'doing aerobics'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 200: {'marching', "
+ "'dodgeball'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 200: {'doing aerobics', "
+ "'skipping rope'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 201: {'archery', "
+ "'dodgeball'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 201: {'dancing gangnam "
+ "style', 'skipping rope'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 202: {'cheerleading', "
+ "'archery', 'playing volleyball'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 202: {'dancing gangnam "
+ "style', 'zumba', 'doing aerobics'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 203: {'archery', 'playing "
+ "volleyball', 'stretching arm', 'side kick'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 203: {'dancing gangnam "
+ "style', 'zumba', 'doing aerobics', 'skipping rope'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 204: {'archery', 'playing "
+ "volleyball', 'stretching arm'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 204: {'marching', "
+ "'skipping rope', 'dodgeball'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 205: {'archery'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 205: {'cheerleading'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 206: {'archery', 'playing "
+ "volleyball', 'stretching arm'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 206: {'stretching leg', "
+ "'marching', 'skipping rope'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 207: {'archery', "
+ "'stretching arm'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 207: {'marching', "
+ "'skipping rope'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 208: {'cheerleading', "
+ "'country line dancing'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 208: {'skipping rope', "
+ "'playing badminton'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 209: {'country line "
+ "dancing', 'side kick'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 209: {'shot put', "
+ "'skipping rope'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 210: {'marching', 'country "
+ "line dancing'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 210: {'skipping rope', "
+ "'salsa dancing'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 211: {'country line "
+ "dancing', 'playing badminton'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 211: {'shot put', "
+ "'skipping rope'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 212: {'kicking field "
+ "goal', 'applauding', 'marching'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 212: {'dunking "
+ "basketball', 'dodgeball', 'playing basketball'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 213: {'kicking field goal'}"
+'cnt : 1'
+("Activities in second pkl but not in first for key 213: {'giving or receiving "
+ "award'}")
+'cnt : 1'
+("Activities in first pkl but not in second for key 214: {'marching', 'high "
+ "kick'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 214: {'giving or receiving "
+ "award', 'dodgeball'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 215: {'cheerleading', "
+ "'marching', 'high kick'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 215: {'playing cricket', "
+ "'dodgeball', 'catching or throwing frisbee'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 216: {'marching'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 216: {'dodgeball'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 217: {'high kick', "
+ "'swinging legs'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 217: {'skipping rope', "
+ "'dodgeball'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 218: {'applauding'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 218: {'dodgeball'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 219: {'applauding', 'high "
+ "kick'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 219: {'skipping rope', "
+ "'playing badminton'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 220: {'applauding'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 220: {'playing badminton'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 221: {'side kick'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 221: {'playing volleyball'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 222: {'skipping rope', "
+ "'high kick'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 222: {'archery', 'roller "
+ "skating'}")
+'cnt : 2'
+'Total : 1342'
+'Mean : 3.008968609865471'

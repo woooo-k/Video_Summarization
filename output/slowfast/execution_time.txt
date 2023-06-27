@@ -1,0 +1,10 @@
+[model : slowfast]
+Execution time: 307.68979048728943 seconds
+[model : slowfast]
+Execution time: 313.5746304988861 seconds
+[model : slowfast]
+Execution time: 322.89113903045654 seconds
+[model : slowfast]
+Execution time: 317.68749165534973 seconds
+[model : slowfast]
+Execution time: 320.39595007896423 seconds

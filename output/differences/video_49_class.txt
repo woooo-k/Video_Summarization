@@ -1,0 +1,5 @@
+[('grooming dog', 85),
+ ('petting animal (not cat)', 81),
+ ('news anchoring', 62),
+ ('cutting nails', 54),
+ ('smashing', 30)]

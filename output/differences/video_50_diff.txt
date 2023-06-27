@@ -1,0 +1,690 @@
+("Activities in first pkl but not in second for key 0: {'pushing wheelchair', "
+ "'cleaning floor', 'pushing car', 'moving furniture'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 0: {'playing recorder', "
+ "'playing harmonica', 'petting cat', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 1: {'cutting nails', "
+ "'crawling baby', 'shuffling cards', 'counting money'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 1: {'playing harmonica', "
+ "'petting cat', 'training dog', 'pushing cart'}")
+'cnt : 4'
+"Activities in first pkl but not in second for key 2: {'counting money'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 2: {'finger snapping'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 3: {'using remote "
+ "controller (not gaming)', 'crawling baby', 'pushing wheelchair', 'moving "
+ "furniture'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 3: {'petting cat', "
+ "'training dog', 'throwing ball', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 4: {'holding snake', "
+ "'pushing wheelchair', 'cleaning floor', 'moving furniture'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 4: {'using remote "
+ "controller (not gaming)', 'petting cat', 'training dog', 'petting animal "
+ "(not cat)'}")
+'cnt : 4'
+"Activities in first pkl but not in second for key 5: {'moving furniture'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 5: {'yawning'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 6: {'sanding floor', "
+ "'cutting nails', 'moving furniture'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 6: {'playing recorder', "
+ "'pushing car', 'pushing cart'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 7: {'playing recorder', "
+ "'tossing coin', 'holding snake', 'eating carrots'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 7: {'mopping floor', "
+ "'eating chips', 'tasting food', 'sipping cup'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 8: {'robot dancing', "
+ "'hoverboarding', 'bowling', 'opening present'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 8: {'eating ice cream', "
+ "'eating chips', 'tasting food', 'eating cake'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 9: {'making a sandwich', "
+ "'gargling', 'baking cookies', 'cleaning floor'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 9: {'eating ice cream', "
+ "'eating chips', 'texting', 'eating cake'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 10: {'finger snapping', "
+ "'hoverboarding', 'rock scissors paper', 'robot dancing', 'tossing coin'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 10: {'blowing out "
+ "candles', 'shuffling cards', 'holding snake', 'baking cookies', 'opening "
+ "present'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 11: {'rock scissors "
+ "paper', 'dancing gangnam style', 'tossing coin'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 11: {'blowing out "
+ "candles', 'hugging baby', 'shaking hands'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 12: {'flipping pancake', "
+ "'tossing coin', 'baking cookies', 'singing'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 12: {'blowing out "
+ "candles', 'dancing macarena', 'hugging baby', 'hopscotch'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 13: {'moving furniture', "
+ "'hugging baby', 'washing hands', 'decorating the christmas tree'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 13: {'pushing wheelchair', "
+ "'cutting nails', 'finger snapping', 'pushing cart'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 14: {'using remote "
+ "controller (not gaming)', 'pushing wheelchair', 'sharpening pencil', "
+ "'holding snake'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 14: {'playing harmonica', "
+ "'petting cat', 'training dog', 'throwing ball'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 15: {'smoking hookah', "
+ "'holding snake'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 15: {'catching or throwing "
+ "frisbee', 'pushing cart'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 16: {'shaking hands', "
+ "'hoverboarding'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 16: {'shuffling cards', "
+ "'pushing car'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 17: {'cleaning floor', "
+ "'sanding floor'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 17: {'petting cat', "
+ "'training dog'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 18: {'grooming horse', "
+ "'tying knot (not on a tie)', 'sanding floor'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 18: {'bandaging', "
+ "'shuffling cards', 'opening wine bottle'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 19: {'grooming horse', "
+ "'shuffling cards', 'tying knot (not on a tie)'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 19: {'grooming dog', "
+ "'petting cat', 'wrapping present'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 20: {'stretching leg', "
+ "'training dog', 'grooming horse', 'sanding floor'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 20: {'grooming dog', "
+ "'petting cat', 'wrapping present', 'bandaging'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 21: {'grooming dog', "
+ "'shearing sheep', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 21: {'shaking hands', "
+ "'cutting nails', 'tossing coin'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 22: {'playing harp', "
+ "'shearing sheep', 'sanding floor'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 22: {'shaking hands', "
+ "'tossing coin', 'shredding paper'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 23: {'playing harp', "
+ "'shearing sheep', 'sweeping floor', 'sanding floor'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 23: {'mopping floor', "
+ "'petting cat', 'shredding paper', 'cleaning floor'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 24: {'playing harp', "
+ "'petting animal (not cat)', 'shearing sheep', 'sanding floor'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 24: {'using remote "
+ "controller (not gaming)', 'tossing coin', 'training dog', 'shredding paper'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 25: {'grooming dog', "
+ "'training dog', 'shearing sheep', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 25: {'shaking hands', "
+ "'tossing coin', 'eating spaghetti', 'shredding paper'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 26: {'grooming dog', "
+ "'training dog', 'cutting nails'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 26: {'feeding birds', "
+ "'eating spaghetti', 'feeding goats'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 27: {'grooming dog', "
+ "'training dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 27: {'feeding birds', "
+ "'feeding goats'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 28: {'shaking hands', "
+ "'grooming dog', 'training dog', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 28: {'eating ice cream', "
+ "'eating chips', 'baking cookies', 'feeding goats'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 29: {'grooming dog', "
+ "'training dog', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 29: {'tossing coin', "
+ "'feeding goats', 'making tea'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 30: {'training dog'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 30: {'shaking hands'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 31: {'cutting nails'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 31: {'shaking hands'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 32: {'grooming dog', "
+ "'training dog', 'cutting nails', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 32: {'shaking hands', "
+ "'tossing coin', 'eating spaghetti', 'eating ice cream'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 33: {'grooming dog', "
+ "'counting money', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 33: {'shaking hands', "
+ "'eating spaghetti', 'making tea'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 34: {'petting animal (not "
+ 'cat)\', "massaging person\'s head", \'sanding floor\'}')
+'cnt : 3'
+("Activities in second pkl but not in first for key 34: {'shaking hands', "
+ "'eating spaghetti', 'making tea'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 35: {'tossing coin', 'air "
+ 'drumming\', \'counting money\', "massaging person\'s head"}')
+'cnt : 4'
+("Activities in second pkl but not in first for key 35: {'shaking hands', "
+ "'grooming dog', 'training dog', 'making tea'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 36: {'air drumming', "
+ "'playing didgeridoo', 'sanding floor'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 36: {'shaking hands', "
+ "'training dog', 'making tea'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 37: {'grooming dog', "
+ '\'petting animal (not cat)\', "massaging person\'s head"}')
+'cnt : 3'
+("Activities in second pkl but not in first for key 37: {'shaking hands', "
+ "'eating spaghetti', 'training dog'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 38: {'grooming dog', "
+ '\'training dog\', "massaging person\'s head"}')
+'cnt : 3'
+("Activities in second pkl but not in first for key 38: {'shaking hands', "
+ "'playing harmonica', 'making tea'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 39: {'cutting nails', "
+ "'training dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 39: {'eating chips', "
+ "'baking cookies'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 40: {'shaking hands', "
+ "'cutting nails'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 40: {'eating ice cream', "
+ "'eating chips'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 41: {'grooming dog', "
+ "'cutting nails', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 41: {'eating chips', "
+ "'eating spaghetti', 'eating burger'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 42: {'dancing ballet', "
+ "'stomping grapes', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 42: {'eating chips', "
+ "'eating spaghetti', 'eating burger'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 43: {'baking cookies', "
+ "'shearing sheep'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 43: {'eating chips', "
+ "'eating spaghetti'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 44: {'grooming dog', "
+ "'baking cookies', 'grooming horse'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 44: {'eating chips', "
+ "'eating spaghetti', 'feeding goats'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 45: {'petting cat', "
+ "'grooming horse', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 45: {'eating chips', "
+ "'eating spaghetti', 'feeding goats'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 46: {'milking cow', "
+ "'baking cookies', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 46: {'eating chips', "
+ "'eating spaghetti', 'feeding goats'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 47: {'grooming dog', "
+ "'digging', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 47: {'eating chips', "
+ "'eating spaghetti', 'feeding goats'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 48: {'grooming dog', "
+ "'petting cat', 'shearing sheep', 'stomping grapes', 'petting animal (not "
+ "cat)'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 48: {'eating chips', "
+ "'feeding goats', 'eating spaghetti', 'baking cookies', 'eating doughnuts'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 49: {'eating ice cream', "
+ "'petting animal (not cat)', 'shearing sheep', 'making a cake'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 49: {'eating chips', "
+ "'eating spaghetti', 'eating doughnuts', 'petting cat'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 50: {'grooming dog', "
+ "'eating chips', 'eating spaghetti', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 50: {'baking cookies', "
+ "'planting trees', 'eating doughnuts', 'cooking chicken'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 51: {'shaking hands', "
+ "'grooming dog', 'petting cat', 'cutting nails', 'petting animal (not cat)'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 51: {'eating chips', "
+ "'eating cake', 'eating spaghetti', 'baking cookies', 'eating doughnuts'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 52: {'grooming dog', "
+ "'shearing sheep', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 52: {'baking cookies', "
+ "'eating doughnuts', 'eating cake'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 53: {'petting cat', "
+ "'shearing sheep', 'feeding goats', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 53: {'feeding birds', "
+ "'baking cookies', 'eating doughnuts', 'cooking chicken'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 54: {'making a cake', "
+ "'grinding meat', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 54: {'eating ice cream', "
+ "'eating burger', 'eating cake'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 55: {'watering plants', "
+ "'grinding meat', 'peeling potatoes', 'cleaning gutters'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 55: {'feeding birds', "
+ "'eating chips', 'eating burger', 'feeding goats'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 56: {'eating spaghetti', "
+ "'petting animal (not cat)', 'feeding goats', 'peeling potatoes'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 56: {'eating ice cream', "
+ "'eating chips', 'eating burger', 'eating doughnuts'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 57: {'making tea', "
+ "'petting animal (not cat)', 'making a cake', 'eating spaghetti', 'grooming "
+ "horse'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 57: {'planting trees', "
+ "'eating ice cream', 'baking cookies', 'eating burger', 'eating doughnuts'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 58: {'eating chips', "
+ "'eating spaghetti', 'petting animal (not cat)', 'petting cat'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 58: {'eating ice cream', "
+ "'eating burger', 'eating doughnuts', 'eating cake'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 59: {'making a cake', "
+ '\'eating ice cream\', \'feeding goats\', "massaging person\'s head"}')
+'cnt : 4'
+("Activities in second pkl but not in first for key 59: {'eating chips', "
+ "'eating burger', 'eating doughnuts', 'petting cat'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 60: {'making a cake', "
+ "'eating spaghetti', 'feeding goats', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 60: {'eating chips', "
+ "'baking cookies', 'eating doughnuts', 'eating cake'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 61: {'shaking hands', "
+ "'grooming dog', 'petting cat'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 61: {'eating ice cream', "
+ "'baking cookies', 'eating cake'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 62: {'shaking hands', "
+ "'tossing coin', 'counting money', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 62: {'walking the dog', "
+ "'eating chips', 'eating spaghetti', 'petting cat'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 63: {'mopping floor', "
+ "'sweeping floor'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 63: {'grooming dog', "
+ "'cleaning windows'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 64: {'grooming dog', "
+ "'sweeping floor'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 64: {'playing recorder', "
+ "'shredding paper'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 65: {'walking the dog', "
+ "'playing harmonica', 'moving furniture'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 65: {'playing recorder', "
+ "'throwing ball', 'shredding paper'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 66: {'setting table', "
+ "'somersaulting', 'throwing ball', 'moving furniture'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 66: {'playing recorder', "
+ "'playing piano', 'eating spaghetti', 'playing trumpet'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 67: {'playing harp', "
+ "'throwing ball', 'moving furniture'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 67: {'playing recorder', "
+ "'playing trumpet', 'eating spaghetti'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 68: {'walking the dog', "
+ "'hugging baby', 'sweeping floor', 'moving furniture'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 68: {'playing piano', "
+ "'brushing hair', 'petting cat', 'playing harmonica'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 69: {'training dog', "
+ "'finger snapping', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 69: {'yawning', 'petting "
+ "animal (not cat)', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 70: {'tai chi', 'playing "
+ "harp', 'training dog', 'hugging baby'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 70: {'playing harmonica', "
+ "'finger snapping', 'yawning', 'archery'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 71: {'shaking hands', "
+ "'hugging baby', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 71: {'playing harmonica', "
+ "'petting animal (not cat)', 'yawning'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 72: {'training dog', "
+ "'hugging baby', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 72: {'eating spaghetti', "
+ "'petting animal (not cat)', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 73: {'training dog', "
+ "'hugging baby', 'yawning', 'walking the dog'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 73: {'shaking hands', "
+ "'eating spaghetti', 'shredding paper', 'petting animal (not cat)'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 74: {'playing harp', "
+ "'hugging baby'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 74: {'shaking hands', "
+ "'playing harmonica'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 75: {'playing harp', "
+ "'training dog', 'hugging baby', 'climbing ladder'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 75: {'playing harmonica', "
+ "'sticking tongue out', 'petting animal (not cat)', 'yawning'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 76: {'training dog', "
+ "'hugging baby'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 76: {'sticking tongue "
+ "out', 'petting animal (not cat)'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 77: {'training dog', "
+ "'hugging baby', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 77: {'playing harmonica', "
+ "'eating spaghetti', 'yawning'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 78: {'hugging baby', "
+ "'walking the dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 78: {'playing recorder', "
+ "'yawning'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 79: {'shaking hands', "
+ "'sweeping floor'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 79: {'playing recorder', "
+ "'pushing cart'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 80: {'petting animal (not "
+ "cat)', 'ice fishing', 'holding snake'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 80: {'yawning', 'finger "
+ "snapping', 'singing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 81: {'petting animal (not "
+ "cat)', 'walking the dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 81: {'shaking hands', "
+ "'singing'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 82: {'catching fish', "
+ "'petting animal (not cat)', 'ice fishing', 'holding snake'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 82: {'playing recorder', "
+ "'grooming dog', 'training dog', 'sticking tongue out'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 83: {'catching fish', 'ice "
+ "fishing', 'brush painting', 'plastering', 'holding snake'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 83: {'playing recorder', "
+ "'shaking hands', 'grooming dog', 'petting cat', 'training dog'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 84: {'eating spaghetti', "
+ "'catching fish', 'ice fishing', 'holding snake'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 84: {'playing recorder', "
+ "'sticking tongue out', 'finger snapping', 'shaking hands'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 85: {'training dog', "
+ "'yawning', 'walking the dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 85: {'playing recorder', "
+ "'finger snapping', 'pushing cart'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 86: {'shaking hands', "
+ "'mopping floor', 'training dog'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 86: {'doing laundry', "
+ "'finger snapping', 'sweeping floor'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 87: {'shaking hands', "
+ "'training dog'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 87: {'playing recorder', "
+ "'finger snapping'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 88: {'mopping floor', "
+ "'sweeping floor'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 88: {'playing recorder', "
+ "'pushing car'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 89: {'playing harp', "
+ "'moving furniture', 'folding napkins', 'doing laundry', 'reading book'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 89: {'eating chips', 'baby "
+ "waking up', 'making the bed', 'petting cat', 'petting animal (not cat)'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 90: {'playing harp', "
+ "'washing feet', 'moving furniture'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 90: {'making the bed', "
+ "'eating chips', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 91: {'folding napkins', "
+ "'eating chips', 'reading book'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 91: {'making the bed', "
+ "'petting animal (not cat)', 'yawning'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 92: {'playing harp', "
+ "'reading book', 'washing feet', 'eating chips'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 92: {'making the bed', "
+ "'baby waking up', 'petting animal (not cat)', 'yawning'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 93: {'folding napkins', "
+ "'playing harp', 'reading book'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 93: {'eating chips', "
+ "'petting animal (not cat)', 'yawning'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 94: {'eating chips', "
+ "'reading book', 'washing feet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 94: {'making the bed', "
+ "'petting animal (not cat)', 'yawning'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 95: {'folding napkins', "
+ "'reading book', 'washing feet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 95: {'making the bed', "
+ "'baby waking up', 'petting animal (not cat)'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 96: {'shaking hands', "
+ "'massaging feet', 'hugging baby'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 96: {'eating burger', "
+ "'petting animal (not cat)', 'cooking chicken'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 97: {'hugging baby', "
+ "'tickling'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 97: {'cutting nails', "
+ "'baby waking up'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 98: {'baby waking up', "
+ "'hugging baby'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 98: {'cutting nails', "
+ "'cooking chicken'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 99: {'playing harp', "
+ "'massaging feet', 'massaging legs'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 99: {'eating burger', "
+ "'petting animal (not cat)', 'cooking chicken'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 100: {'sanding floor', "
+ "'cleaning floor', 'cleaning shoes', 'moving furniture'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 100: {'petting cat', "
+ "'baking cookies', 'making tea', 'making pizza'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 101: {'mopping floor', "
+ "'sweeping floor', 'cleaning floor', 'cleaning toilet'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 101: {'baking cookies', "
+ "'feeding fish', 'making tea', 'watering plants'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 102: {'mopping floor', "
+ "'cleaning floor', 'folding napkins', 'flipping pancake', 'setting table'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 102: {'baking cookies', "
+ "'cooking chicken', 'making pizza', 'making tea', 'cooking egg'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 103: {'mopping floor', "
+ "'flipping pancake', 'sweeping floor'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 103: {'tossing coin', "
+ "'feeding fish', 'watering plants'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 104: {'mopping floor', "
+ "'sweeping floor', 'cleaning toilet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 104: {'baking cookies', "
+ "'feeding fish', 'making pizza'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 105: {'mopping floor', "
+ "'sweeping floor', 'cleaning toilet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 105: {'baking cookies', "
+ "'feeding fish', 'making jewelry'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 106: {'mopping floor', "
+ "'sweeping floor', 'cleaning floor', 'cleaning toilet'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 106: {'baking cookies', "
+ "'grinding meat', 'feeding fish', 'making pizza'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 107: {'sweeping floor', "
+ "'cleaning floor', 'sanding floor'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 107: {'shaking hands', "
+ "'petting cat', 'baking cookies'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 108: {'sanding floor', "
+ "'moving furniture'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 108: {'petting cat', "
+ "'walking the dog'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 109: {'sanding floor'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 109: {'petting cat'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 110: {'sanding floor'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 110: {'petting cat'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 111: {'sanding floor'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 111: {'crawling baby'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 112: {'mopping floor', "
+ "'sanding floor', 'cleaning floor', 'moving furniture'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 112: {'playing recorder', "
+ "'petting cat', 'training dog', 'finger snapping'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 113: {'plastering', "
+ "'sweeping floor', 'cleaning floor', 'sanding floor'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 113: {'playing recorder', "
+ "'petting cat', 'training dog', 'finger snapping'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 114: {'sweeping floor', "
+ "'sanding floor'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 114: {'shredding paper', "
+ "'yawning'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 115: {'yoga', 'throwing "
+ "axe', 'plastering', 'sanding floor', 'stretching leg'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 115: {'finger snapping', "
+ "'mopping floor', 'petting cat', 'training dog', 'cleaning floor'}")
+'cnt : 5'
+'Total : 738'
+'Mean : 3.1810344827586206'

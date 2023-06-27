@@ -1,0 +1,420 @@
+("Activities in first pkl but not in second for key 0: {'using remote "
+ "controller (not gaming)', 'robot dancing', 'driving car'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 0: {'shredding paper', "
+ "'using computer', 'jumpstyle dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 1: {'spraying', 'changing "
+ "oil', 'cleaning windows'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 1: {'yoga', 'jumpstyle "
+ "dancing', 'scuba diving'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 2: {'spraying', 'cleaning "
+ "windows'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 2: {'unboxing', 'washing "
+ "hands'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 3: {'bobsledding', "
+ "'snowboarding', 'skiing mono'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 3: {'giving or receiving "
+ "award', 'shredding paper', 'washing hands'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 4: {'folding napkins', "
+ "'presenting weather forecast', 'news anchoring', 'wrapping present'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 4: {'celebrating', 'flying "
+ "kite', 'folding paper', 'washing hands'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 5: {'swimming backstroke', "
+ "'skiing mono', 'news anchoring'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 5: {'unboxing', 'folding "
+ "clothes', 'wrapping present'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 6: {'spray painting', "
+ "'presenting weather forecast', 'cleaning toilet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 6: {'bobsledding', "
+ "'bowling', 'jumpstyle dancing'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 7: {'dancing ballet', "
+ "'kissing', 'pumping gas', 'busking'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 7: {'bobsledding', "
+ "'smoking', 'tap dancing', 'recording music'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 8: {'playing bagpipes', "
+ "'singing', 'recording music'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 8: {'waiting in line', "
+ "'ice skating', 'texting'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 9: {'recording music', "
+ "'pumping gas', 'playing controller'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 9: {'waiting in line', "
+ "'abseiling', 'skateboarding'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 10: {'tossing coin', "
+ "'recording music', 'cleaning windows'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 10: {'auctioning', "
+ "'archery', 'skateboarding'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 11: {'busking', "
+ "'abseiling', 'cleaning windows'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 11: {'waiting in line', "
+ "'ice skating', 'smoking'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 12: {'busking', 'giving or "
+ "receiving award', 'taking a shower', 'cleaning windows'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 12: {'waiting in line', "
+ "'texting', 'hugging baby', 'smoking'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 13: {'giving or receiving "
+ "award'}")
+'cnt : 1'
+"Activities in second pkl but not in first for key 13: {'shaking hands'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 14: {'shaking hands', "
+ "'giving or receiving award', 'hugging baby'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 14: {'crying', 'smoking', "
+ "'busking'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 15: {'shaking hands'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 15: {'ice skating'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 16: {'milking cow', "
+ "'riding elephant'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 16: {'tasting beer', "
+ "'recording music'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 17: {'kissing', 'playing "
+ "harp', 'playing clarinet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 17: {'playing ice hockey', "
+ "'smoking', 'playing poker'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 18: {'kissing', 'milking "
+ "cow', 'waiting in line'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 18: {'smoking', 'recording "
+ "music', 'busking'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 19: {'milking cow', "
+ "'dining'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 19: {'applauding', "
+ "'surfing crowd'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 20: {'milking cow', "
+ "'shearing sheep'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 20: {'playing trumpet', "
+ "'playing trombone'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 21: {'playing violin', "
+ "'playing cello'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 21: {'playing recorder', "
+ "'playing trombone'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 22: {'playing trombone', "
+ "'playing cello'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 22: {'playing flute', "
+ "'shaving head'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 23: {'hugging baby', "
+ "'playing poker', 'waiting in line', 'kissing', 'tango dancing'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 23: {'playing harp', "
+ "'busking', 'playing clarinet', 'auctioning', 'playing trumpet'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 24: {'playing harp', "
+ "'playing flute', 'busking'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 24: {'playing recorder', "
+ "'playing trumpet', 'playing trombone'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 25: {'archery', 'playing "
+ "harp'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 25: {'giving or receiving "
+ "award', 'smoking'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 26: {'playing trumpet'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 26: {'smoking hookah'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 27: {'playing trombone'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 27: {'busking'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 28: {'playing trombone'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 28: {'busking'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 29: {'milking cow'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 29: {'kissing'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 30: {'archery', 'playing "
+ "clarinet'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 30: {'sipping cup', "
+ "'recording music'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 31: {'playing flute'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 31: {'headbanging'}"
+'cnt : 1'
+"Activities in first pkl but not in second for key 32: {'singing'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 32: {'playing cello'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 33: {'milking cow', "
+ "'crying', 'sled dog racing'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 33: {'playing cello', "
+ "'singing', 'recording music'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 34: {'applauding', "
+ "'crying', 'celebrating', 'shaking hands', 'shearing sheep'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 34: {'playing cello', "
+ "'busking', 'playing violin', 'milking cow', 'sled dog racing'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 35: {'waiting in line', "
+ "'milking cow', 'shearing sheep'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 35: {'drinking beer', "
+ "'playing flute', 'sipping cup'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 36: {'crying', 'shaking "
+ "hands', 'arm wrestling', 'kissing', 'headbutting'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 36: {'smoking', 'sipping "
+ "cup', 'busking', 'playing violin', 'drinking beer'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 37: {'punching person "
+ "(boxing)', 'smoking', 'kissing', 'tango dancing', 'trapezing'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 37: {'driving car', "
+ "'bobsledding', 'busking', 'playing violin', 'motorcycling'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 38: {'dancing ballet', "
+ "'belly dancing', 'tango dancing', 'trapezing'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 38: {'ski jumping', "
+ "'playing cello', 'spray painting', 'bending metal'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 39: {'getting a haircut', "
+ "'shaving head', 'giving or receiving award', 'hurling (sport)', 'answering "
+ "questions'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 39: {'crying', 'smoking', "
+ "'blowing glass', 'busking', 'playing violin'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 40: {'taking a shower', "
+ "'playing trombone', 'abseiling'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 40: {'playing saxophone', "
+ "'smoking', 'busking'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 41: {'archery', "
+ "'abseiling', 'cleaning windows'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 41: {'marching', 'playing "
+ "cello', 'playing clarinet'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 42: {'bobsledding', "
+ "'changing wheel (not on bike)', 'pushing car'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 42: {'archery', 'ski "
+ "jumping', 'bungee jumping'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 43: {'bobsledding', 'water "
+ "skiing', 'pushing car'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 43: {'auctioning', "
+ "'dining', 'busking'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 44: {'celebrating', "
+ "'waiting in line'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 44: {'marching', "
+ "'recording music'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 45: {'busking'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 45: {'recording music'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 46: {'playing accordion', "
+ "'playing clarinet'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 46: {'texting', 'recording "
+ "music'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 48: {'waiting in line', "
+ "'milking cow', 'grooming horse'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 48: {'playing violin', "
+ "'playing cello', 'blowing glass'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 49: {'waiting in line', "
+ "'sipping cup', 'smoking'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 49: {'playing bagpipes', "
+ "'playing clarinet', 'recording music'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 50: {'celebrating', "
+ "'bungee jumping', 'pull ups', 'skydiving'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 50: {'playing violin', "
+ "'drinking beer', 'smoking', 'singing'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 51: {'celebrating', "
+ "'playing trumpet', 'playing bagpipes'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 51: {'playing violin', "
+ "'playing cello', 'archery'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 52: {'playing accordion', "
+ "'playing clarinet'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 52: {'playing saxophone', "
+ "'recording music'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 53: {'archery', 'shearing "
+ "sheep'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 53: {'playing accordion', "
+ "'recording music'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 54: {'crying', 'smoking', "
+ "'getting a tattoo', 'holding snake'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 54: {'drinking beer', "
+ "'sipping cup', 'recording music', 'busking'}")
+'cnt : 4'
+"Activities in first pkl but not in second for key 55: {'playing harp'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 55: {'recording music'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 56: {'playing flute', "
+ "'smoking', 'playing clarinet'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 56: {'kissing', 'sipping "
+ "cup', 'busking'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 57: {'playing clarinet'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 57: {'playing trombone'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 58: {'playing clarinet', "
+ "'busking'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 58: {'playing trumpet', "
+ "'smoking'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 59: {'playing recorder', "
+ "'playing violin'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 59: {'playing trombone', "
+ "'playing saxophone'}")
+'cnt : 2'
+"Activities in first pkl but not in second for key 60: {'busking'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 60: {'playing violin'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 61: {'carrying baby', "
+ "'reading newspaper', 'crying', 'reading book'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 61: {'laughing', 'playing "
+ "violin', 'playing ukulele', 'shaving head'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 62: {'marching', 'playing "
+ "bagpipes', 'busking', 'reading newspaper', 'carrying baby'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 62: {'driving car', "
+ "'crying', 'cleaning windows', 'shaving head', 'pushing wheelchair'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 63: {'taking a shower', "
+ "'busking'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 63: {'tossing coin', "
+ "'crying'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 64: {'giving or receiving "
+ "award', 'taking a shower', 'cleaning windows'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 64: {'shaking hands', "
+ "'crying', 'smoking'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 65: {'taking a shower'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 65: {'texting'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 66: {'spraying', 'person "
+ "collecting garbage', 'driving car', 'sailing'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 66: {'riding unicycle', "
+ "'pushing wheelchair', 'pushing cart', 'pushing car'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 67: {'spraying', 'water "
+ "sliding', 'cleaning floor'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 67: {'texting', 'pushing "
+ "car', 'cleaning windows'}")
+'cnt : 3'
+"Activities in first pkl but not in second for key 68: {'situp'}"
+'cnt : 1'
+"Activities in second pkl but not in first for key 68: {'lunge'}"
+'cnt : 1'
+("Activities in first pkl but not in second for key 69: {'sign language "
+ "interpreting', 'lunge', 'stretching arm'}")
+'cnt : 3'
+("Activities in second pkl but not in first for key 69: {'cleaning floor', "
+ "'bungee jumping', 'tying knot (not on a tie)'}")
+'cnt : 3'
+("Activities in first pkl but not in second for key 70: {'dancing ballet', "
+ "'trapezing'}")
+'cnt : 2'
+("Activities in second pkl but not in first for key 70: {'lunge', 'answering "
+ "questions'}")
+'cnt : 2'
+("Activities in first pkl but not in second for key 71: {'dancing ballet', "
+ "'bowling', 'presenting weather forecast', 'trapezing'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 71: {'stretching arm', "
+ "'yoga', 'news anchoring', 'answering questions'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 72: {'dancing ballet', "
+ "'bowling', 'zumba', 'archery', 'trapezing'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 72: {'tai chi', 'yoga', "
+ "'news anchoring', 'answering questions', 'jumpstyle dancing'}")
+'cnt : 5'
+("Activities in first pkl but not in second for key 73: {'dancing ballet', "
+ "'zumba', 'bowling', 'trapezing'}")
+'cnt : 4'
+("Activities in second pkl but not in first for key 73: {'giving or receiving "
+ "award', 'yoga', 'news anchoring', 'answering questions'}")
+'cnt : 4'
+("Activities in first pkl but not in second for key 74: {'dancing ballet', "
+ "'trapezing', 'beatboxing', 'zumba', 'jumpstyle dancing'}")
+'cnt : 5'
+("Activities in second pkl but not in first for key 74: {'yoga', 'presenting "
+ "weather forecast', 'news anchoring', 'archery', 'answering questions'}")
+'cnt : 5'
+'Total : 408'
+'Mean : 2.7567567567567566'

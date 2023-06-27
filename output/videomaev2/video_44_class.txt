@@ -1,0 +1,5 @@
+[('pouring beer', 44),
+ ('riding mountain bike', 43),
+ ('changing wheel (not on bike)', 34),
+ ('falling off chair', 31),
+ ('riding a bike', 26)]

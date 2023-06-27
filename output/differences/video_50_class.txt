@@ -1,0 +1,5 @@
+[('petting cat', 83),
+ ('chasing', 46),
+ ('shaking hands', 46),
+ ('eating cake', 37),
+ ('vacuuming car', 33)]

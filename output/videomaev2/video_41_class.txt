@@ -1,0 +1,5 @@
+[('motorcycling', 135),
+ ('riding mountain bike', 132),
+ ('riding a bike', 132),
+ ('pouring beer', 73),
+ ('yarn spinning', 49)]
