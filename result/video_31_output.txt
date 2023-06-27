@@ -1,4 +1,6 @@
-관련 class : busking
+이름 관련 class : busking
+카테고리 관련 class : busking
+비디오 전체 관련 class : busking
 
 
 {0: [['sailing',

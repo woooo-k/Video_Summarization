@@ -1,5 +1,6 @@
-관련 class : motorcycling
-
+이름 관련 class : motorcycling
+카테고리 관련 class : motorcycling
+비디오 전체 관련 class : motorcycling
 
 {0: [['news anchoring', 'sailing', 'yoga', 'answering questions', 'dining'],
      tensor([0.1768, 0.0488, 0.0192, 0.0185, 0.0179], device='cuda:0')],

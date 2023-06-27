@@ -1,4 +1,6 @@
-관련 class : cheerleading, doing aerobics
+이름 관련 class : country line dancing
+카테고리 관련 class : country line dancing
+비디오 전체 관련 class : cheerleading, doing aerobics
 
 
 {0: [['skipping rope',

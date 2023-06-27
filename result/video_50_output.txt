@@ -1,4 +1,6 @@
-관련 class : petting cat
+이름 관련 class : petting cat, training dog
+카테고리 관련 class : training dog
+비디오 전체 관련 class : petting cat
 
 
 {0: [['petting cat',

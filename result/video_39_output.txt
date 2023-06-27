@@ -1,4 +1,7 @@
-관련 class : bee keeping
+이름 관련 class : bee keeping
+카테고리 관련 class : bee keeping
+비디오 전체 관련 class : bee keeping
+
 
 
 {0: [['news anchoring',
